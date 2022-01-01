@@ -18,4 +18,6 @@
   + A ⋂ (A ∪ B) = A
 * Законы де Моргана
   + ![image](https://user-images.githubusercontent.com/72094319/147854856-5f3111ed-10b2-4738-beee-53f698026ec7.png)
- 
+#### Доказательство законов де Моргана
+![4](https://user-images.githubusercontent.com/72094319/147854980-a88ab9dd-9be6-4467-8b3b-8d8bd8a801fc.jpg)
+![image](https://user-images.githubusercontent.com/72094319/147854906-36ea47be-db62-40e8-a55c-07898f4893cc.png)
