@@ -21,3 +21,27 @@
 #### Доказательство законов де Моргана
 ![4](https://user-images.githubusercontent.com/72094319/147854980-a88ab9dd-9be6-4467-8b3b-8d8bd8a801fc.jpg)
 ![image](https://user-images.githubusercontent.com/72094319/147854906-36ea47be-db62-40e8-a55c-07898f4893cc.png)
+
+### Отображения множеств, характеристическая функция множества. Свойства характеристических функций (связь с элементарными операциями). Характеристическая функция симметрической разности.
+#### Отображения множеств, характеристическая функция множества
+![image](https://user-images.githubusercontent.com/72094319/147869345-8ee8b804-9dcf-498a-9335-b932001368d2.png)
+![1](https://user-images.githubusercontent.com/72094319/147869229-f4297a2f-6e81-4084-ad65-69c779a319a1.jpg)
+#### Св-ва характеристических функций
+![2](https://user-images.githubusercontent.com/72094319/147869230-4952db0a-9ce6-4025-b9fa-e1804de7c512.jpg)
+![3](https://user-images.githubusercontent.com/72094319/147869231-7d6d367b-106a-4e97-850e-e630fb23d016.jpg)
+#### Характеристическая функция симметрической разности
+![4](https://user-images.githubusercontent.com/72094319/147869232-4d06fc1b-95c0-4bb3-9308-e0551a0e2a41.jpg)
+
+### Понятие отображения множеств. Сюръективные, инъективные и биективные отображения. Композиция отображений. Ассоциативность композиции. Обратное отображение. Теорема существования обратного отображения. Отображение, обратное к композиции отображений.
+#### Сюръективные, инъективные и биективные отображения
+![1](https://user-images.githubusercontent.com/72094319/147869377-bcc74f38-8031-4601-b418-62c3bdc140f8.jpg)
+#### Композиция отображений
+![image](https://user-images.githubusercontent.com/72094319/147869402-c4138eb7-1f12-41de-8c4c-3d30c3e9fb18.png)
+#### Ассоциативность композиции
+![image](https://user-images.githubusercontent.com/72094319/147869447-e9117879-feca-45e6-ab5d-edb24b1b456a.png)
+#### Обратное отображение
+![image](https://user-images.githubusercontent.com/72094319/147869620-3b3c014e-a62f-4b25-a071-252eb14be8b6.png)
+#### Теорема о существовании обратного отображения
+![image](https://user-images.githubusercontent.com/72094319/147869580-684fd0bd-18d3-4c5a-becf-c83e019a7a65.png)
+![image](https://user-images.githubusercontent.com/72094319/147869593-f487fca7-285d-48ef-8632-9ff1e7e16f4b.png)
+![image](https://user-images.githubusercontent.com/72094319/147869600-84a88c3b-b37f-4c33-bbd2-80e904bc341b.png)
