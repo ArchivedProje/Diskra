@@ -45,3 +45,13 @@
 ![image](https://user-images.githubusercontent.com/72094319/147869580-684fd0bd-18d3-4c5a-becf-c83e019a7a65.png)
 ![image](https://user-images.githubusercontent.com/72094319/147869593-f487fca7-285d-48ef-8632-9ff1e7e16f4b.png)
 ![image](https://user-images.githubusercontent.com/72094319/147869600-84a88c3b-b37f-4c33-bbd2-80e904bc341b.png)
+
+### Бинарные отношения: отношения эквивалентности, классы эквивалентности, теорема о разбиении на классы эквивалентности.
+#### Бинарное оштношение
+![1](https://user-images.githubusercontent.com/72094319/147873578-f4448a4d-2c9d-466a-81c6-6ab03923d169.jpg)
+#### Отношение эквивалентности и порядка
+![2](https://user-images.githubusercontent.com/72094319/147873579-4dd9f90a-693c-46f5-8275-6e1da1e14b9d.jpg)
+#### Класс эквивалентности
+![image](https://user-images.githubusercontent.com/72094319/147873595-f6928421-427f-44ca-9ce7-f874a029b21b.png)
+#### Теорема о разбиение на классы эквивалентности
+![image](https://user-images.githubusercontent.com/72094319/147873611-102d45d7-ef0a-475c-8f3d-d99e7437d1c9.png)
