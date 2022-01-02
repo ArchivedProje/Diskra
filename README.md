@@ -55,3 +55,4 @@
 ![image](https://user-images.githubusercontent.com/72094319/147873595-f6928421-427f-44ca-9ce7-f874a029b21b.png)
 #### Теорема о разбиение на классы эквивалентности
 ![image](https://user-images.githubusercontent.com/72094319/147873611-102d45d7-ef0a-475c-8f3d-d99e7437d1c9.png)
+![image](https://user-images.githubusercontent.com/72094319/147873787-d605d5a7-59ef-4252-ba3c-a8649716a9cc.png)
