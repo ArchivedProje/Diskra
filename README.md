@@ -56,3 +56,10 @@
 #### Теорема о разбиение на классы эквивалентности
 ![image](https://user-images.githubusercontent.com/72094319/147873611-102d45d7-ef0a-475c-8f3d-d99e7437d1c9.png)
 ![image](https://user-images.githubusercontent.com/72094319/147873787-d605d5a7-59ef-4252-ba3c-a8649716a9cc.png)
+
+### Бинарные отношения: отношения порядка, наибольший (наименьший) элемент, его единственность. Максимальный (минимальный) элемент, инфимум и супремум.
+#### Отношение эквивалентности и порядка
+![2](https://user-images.githubusercontent.com/72094319/147873579-4dd9f90a-693c-46f5-8275-6e1da1e14b9d.jpg)
+#### Наибольший / наименьший. Максимальный / минимальный. Инфимум / супремум
+![1](https://user-images.githubusercontent.com/72094319/147882265-94ddc22c-c7f0-45ab-bf01-475c1336019c.jpg)
+![2](https://user-images.githubusercontent.com/72094319/147882267-5c60bb1d-21f0-4af4-9f20-e3b03e51e38e.jpg)
