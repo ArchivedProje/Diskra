@@ -70,3 +70,18 @@
 
 ### Теорема о мощности множества отображений из данного множества в двухэлементное.
 ![image](https://user-images.githubusercontent.com/72094319/147882654-471baad5-2971-4514-bd20-94f0e0cab7d0.png)
+
+### Алгебраические системы: полугруппы, группы, подгруппы, группа перестановок, теорема Кэли.
+#### Алгебраические системы
+![1](https://user-images.githubusercontent.com/72094319/147930821-8fe4ced6-a2a5-4a2d-9f65-c654aa9b1999.jpg)
+![2](https://user-images.githubusercontent.com/72094319/147930824-650e2683-c24c-470a-b0d5-3231d4103712.jpg)
+#### Группа перестановок
+![image](https://user-images.githubusercontent.com/72094319/147930568-19d7c945-ba3f-4c1b-8e8c-b1f4b281f15a.png)
+![image](https://user-images.githubusercontent.com/72094319/147930884-097f93f6-b40f-4869-bfdc-24bf1b678f54.png)
+![image](https://user-images.githubusercontent.com/72094319/147930899-19dd59c9-3d1d-49af-8e96-fdaaf3c49c98.png)
+![image](https://user-images.githubusercontent.com/72094319/147930926-afa439e4-54eb-48f1-901b-a19273b72ca7.png)
+#### Теорема Кэли
+![image](https://user-images.githubusercontent.com/72094319/147930992-29a5ec6d-a0f3-4fd7-b1b7-4d47c673751b.png)
+![image](https://user-images.githubusercontent.com/72094319/147931014-25a24c63-543e-4c49-8ad9-76b122e4a625.png)
+![image](https://user-images.githubusercontent.com/72094319/147931063-bf553c37-c4c2-42bc-8e66-e9800f7fadc9.png)
+![image](https://user-images.githubusercontent.com/72094319/147931076-31b34b38-023c-4f08-9d76-6b21fa5f704f.png)
