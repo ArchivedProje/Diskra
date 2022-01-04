@@ -94,5 +94,17 @@
 ### Алгебраические системы: группы, подгруппы, циклическая группа, порядок элемента, теорема Лагранжа.
 #### Теорема Лагранжа
 ![image](https://user-images.githubusercontent.com/72094319/148039154-18057461-97d5-4b1a-bbd4-563d005ba516.png)
-
 ![image](https://user-images.githubusercontent.com/72094319/148039086-8ae151f2-ffc3-4908-8804-3c62c9ed2556.png)
+
+### Алгебраические системы: кольца, поля, делители нуля, доказательство того, что конечное коммутативное кольцо с отличной от нуля единицей и без делителей нуля является полем, примеры конечных полей.
+#### Кольцо
+![1](https://user-images.githubusercontent.com/72094319/148042326-71b3f406-f84b-4094-afa7-665838c8e493.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148042333-a172e82d-a60d-4cf7-aada-4c8f0e1caeb7.jpg)
+#### Поле
+![image](https://user-images.githubusercontent.com/72094319/148039875-6b7b93f1-9c8f-4368-b746-a0cfce2396e1.png)
+#### Делители нуля
+![image](https://user-images.githubusercontent.com/72094319/148040088-5e535bb9-9c4c-4782-84c0-8d4503256eff.png)
+#### Теорема о комм кольце без делителей нуля
+![3](https://user-images.githubusercontent.com/72094319/148042380-d2c3736b-3b68-44eb-852d-1b93cbd0172b.jpg)
+#### Пример конечного поля
+![4](https://user-images.githubusercontent.com/72094319/148042457-b8fa6dae-c12e-495c-aab8-32bbdfc8ecc6.jpg)
