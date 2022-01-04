@@ -65,7 +65,9 @@
 ![2](https://user-images.githubusercontent.com/72094319/147882267-5c60bb1d-21f0-4af4-9f20-e3b03e51e38e.jpg)
 
 ### Равномощные множества. Счетные множества, их свойства. Пример бесконечного несчетного множества.
- ![1](https://user-images.githubusercontent.com/72094319/147882454-4755af73-6d23-4c26-ae27-a187e85b279b.jpg)
+![1](https://user-images.githubusercontent.com/72094319/147882454-4755af73-6d23-4c26-ae27-a187e85b279b.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148029839-a1e88c66-283f-4d62-a548-44fd2d52bbdb.png)
+![image](https://user-images.githubusercontent.com/72094319/148029856-7d85990e-b3a6-4755-b320-84d34c9f9f2b.png)
  #### Пример бесконечного несчетного множества - (0, 1)
 
 ### Теорема о мощности множества отображений из данного множества в двухэлементное.
