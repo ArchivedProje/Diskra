@@ -108,3 +108,7 @@
 ![3](https://user-images.githubusercontent.com/72094319/148042380-d2c3736b-3b68-44eb-852d-1b93cbd0172b.jpg)
 #### Пример конечного поля
 ![4](https://user-images.githubusercontent.com/72094319/148042457-b8fa6dae-c12e-495c-aab8-32bbdfc8ecc6.jpg)
+
+### Идемпотентные полукольца. Естественный порядок в идемпотентном полукольце. Супремум конечного множества и сумма его элементов.
+![1](https://user-images.githubusercontent.com/72094319/148042962-722d2666-7cb6-4138-bc33-cbab9e6a0fcd.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148042972-b8618702-01d5-4c27-97b2-650f29e10972.jpg)
