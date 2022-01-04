@@ -78,6 +78,8 @@
 #### Алгебраические системы
 ![1](https://user-images.githubusercontent.com/72094319/147930821-8fe4ced6-a2a5-4a2d-9f65-c654aa9b1999.jpg)
 ![2](https://user-images.githubusercontent.com/72094319/147930824-650e2683-c24c-470a-b0d5-3231d4103712.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148037091-c6f9c1e7-0bdc-4266-8231-970a5da6aeb1.png)
+![image](https://user-images.githubusercontent.com/72094319/148037204-ae5c2d7a-56d1-4a5f-9540-e6af76630a83.png)
 #### Группа перестановок
 ![image](https://user-images.githubusercontent.com/72094319/147930568-19d7c945-ba3f-4c1b-8e8c-b1f4b281f15a.png)
 ![image](https://user-images.githubusercontent.com/72094319/147930884-097f93f6-b40f-4869-bfdc-24bf1b678f54.png)
@@ -88,3 +90,9 @@
 ![image](https://user-images.githubusercontent.com/72094319/147931014-25a24c63-543e-4c49-8ad9-76b122e4a625.png)
 ![image](https://user-images.githubusercontent.com/72094319/147931063-bf553c37-c4c2-42bc-8e66-e9800f7fadc9.png)
 ![image](https://user-images.githubusercontent.com/72094319/147931076-31b34b38-023c-4f08-9d76-6b21fa5f704f.png)
+
+### Алгебраические системы: группы, подгруппы, циклическая группа, порядок элемента, теорема Лагранжа.
+#### Теорема Лагранжа
+![image](https://user-images.githubusercontent.com/72094319/148039154-18057461-97d5-4b1a-bbd4-563d005ba516.png)
+
+![image](https://user-images.githubusercontent.com/72094319/148039086-8ae151f2-ffc3-4908-8804-3c62c9ed2556.png)
