@@ -68,6 +68,7 @@
 ![1](https://user-images.githubusercontent.com/72094319/147882454-4755af73-6d23-4c26-ae27-a187e85b279b.jpg)
 ![image](https://user-images.githubusercontent.com/72094319/148029839-a1e88c66-283f-4d62-a548-44fd2d52bbdb.png)
 ![image](https://user-images.githubusercontent.com/72094319/148029856-7d85990e-b3a6-4755-b320-84d34c9f9f2b.png)
+![image](https://user-images.githubusercontent.com/72094319/148029998-9ecbf8bc-0013-4251-9f09-059f1682327d.png)
  #### Пример бесконечного несчетного множества - (0, 1)
 
 ### Теорема о мощности множества отображений из данного множества в двухэлементное.
