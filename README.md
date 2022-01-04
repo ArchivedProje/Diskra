@@ -112,3 +112,13 @@
 ### Идемпотентные полукольца. Естественный порядок в идемпотентном полукольце. Супремум конечного множества и сумма его элементов.
 ![1](https://user-images.githubusercontent.com/72094319/148042962-722d2666-7cb6-4138-bc33-cbab9e6a0fcd.jpg)
 ![2](https://user-images.githubusercontent.com/72094319/148042972-b8618702-01d5-4c27-97b2-650f29e10972.jpg)
+
+### Индуктивно упорядоченные множества. Монотонные отображения. Непрерывные отображения. Связь монотонности и непрерывности.
+#### Индуктивно упорядоченные множества
+![image](https://user-images.githubusercontent.com/72094319/148043461-b2324968-fdf7-476b-ac81-91ea59cbfc42.png)
+#### Монотонное отображение
+![image](https://user-images.githubusercontent.com/72094319/148043759-acc6d46b-f4ca-4d8a-b140-3c5679f542f5.png)
+#### Непрерывное отображение
+![image](https://user-images.githubusercontent.com/72094319/148043830-a0fc535f-7a02-4d49-937e-b226f2d61426.png)
+#### Связь непрерывности и монотонности
+![image](https://user-images.githubusercontent.com/72094319/148044090-fbd66b16-c173-46d5-a041-30f19cf48d34.png)
