@@ -122,3 +122,59 @@
 ![image](https://user-images.githubusercontent.com/72094319/148043830-a0fc535f-7a02-4d49-937e-b226f2d61426.png)
 #### Связь непрерывности и монотонности
 ![image](https://user-images.githubusercontent.com/72094319/148044090-fbd66b16-c173-46d5-a041-30f19cf48d34.png)
+
+### Индуктивно упорядоченные множества. Теорема о наименьшей неподвижной точке непрерывного отображения.
+![1](https://user-images.githubusercontent.com/72094319/148057923-d848bdaa-c583-4d3d-b3d2-657e3f2656d7.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148057932-3ce32ef1-cff6-4772-808e-c9f254509d5d.jpg)
+![3](https://user-images.githubusercontent.com/72094319/148057944-baa9f9f2-9ac0-42e2-a344-9e2d52dde005.jpg)
+
+### Замкнутые идемпотентные полукольца. Минимальное решение уравнения x = ax + b в замкнутом идемпотентном полукольце.
+![image](https://user-images.githubusercontent.com/72094319/148058063-a9e12a00-ea64-4fbc-bace-b88fc7584a7c.png)
+![image](https://user-images.githubusercontent.com/72094319/148058086-537b24d2-2e9e-4181-a18a-8ab3ef536f29.png)
+
+### Булевы функции, способы задания, существенные и фиктивные переменные, отношение равенства, поиск существенных переменных.
+#### Булева функция
+Это отображение из B^n -> B, где B = {0, 1}
+
+#### Способы задания
+1. Изображающим числом (вектором значений)
+2. Таблицей
+3. Формулой
+4. Графически (через Булев куб)
+
+#### Существенные и фиктивные переменные
+![image](https://user-images.githubusercontent.com/72094319/148058370-a4f559db-4691-4054-83b3-59abab5f39cb.png)
+
+#### Отношение равенства
+Булевы функции равны, если одна получается из другой за конечную полсдеовательность добавления и/или исключения фиктивных переменных
+
+### Булевы функции, формулы над базисом функций, теорема о разложении, СДНФ
+#### Формула над базисом
+![image](https://user-images.githubusercontent.com/72094319/148058739-bdf13c2b-e045-42c7-8433-82067c9180d2.png)
+![image](https://user-images.githubusercontent.com/72094319/148058785-e00f76c1-b96a-4f85-a694-a60356e9bf04.png)
+
+#### Теорема о разложении
+![image](https://user-images.githubusercontent.com/72094319/148058886-cd9de545-97dd-4917-8926-b57ba9dc9a44.png)
+![image](https://user-images.githubusercontent.com/72094319/148058909-cf2b6990-2b89-442c-ae63-06555ab96c6f.png)
+![image](https://user-images.githubusercontent.com/72094319/148058956-500271d6-df0c-40b1-8ef6-61169ac26cba.png)
+![image](https://user-images.githubusercontent.com/72094319/148058979-f534357c-626b-4d9d-8674-00eebb173974.png)
+
+#### СДНФ
+![image](https://user-images.githubusercontent.com/72094319/148059032-adc8b5f2-6737-45d8-a749-2b811c3189d9.png)
+
+### Двойственная булева функция, принцип двойственности (теорема о суперпозиции), СКНФ.
+#### Двойственная функция
+![image](https://user-images.githubusercontent.com/72094319/148059374-908ab0e4-add1-46ca-9f99-cd76e03ef8ab.png)
+#### Принцип двойственности (теорема о суперпозиции)
+![1](https://user-images.githubusercontent.com/72094319/148059419-68696b30-6350-4435-8244-02595d974b9d.jpg)
+#### СКНФ
+![image](https://user-images.githubusercontent.com/72094319/148059506-04b22d29-03a6-4eb0-aef2-dce93d8aca10.png)
+![image](https://user-images.githubusercontent.com/72094319/148059520-d78ea100-df1c-4b0a-9509-2036cbf081cf.png)
+![image](https://user-images.githubusercontent.com/72094319/148059634-ee33ea00-1a0a-43ea-b3b5-aaebb81766a6.png)
+
+### Полиномы Жегалкина. Теорема о представлении булевой функции в виде полинома Жегалкина. Метод неопределенных коэффициентов.
+#### Полином Жегалкина
+![image](https://user-images.githubusercontent.com/72094319/148059805-9fbc75b3-a538-4b55-b4ec-7a0ec8b3b746.png)
+![image](https://user-images.githubusercontent.com/72094319/148059824-c3f6a04a-eeb3-434d-b3c0-706be9799e14.png)
+#### Метод неопределенных коэффициентов
+![image](https://user-images.githubusercontent.com/72094319/148059927-e59f2f2a-d6e1-44bc-b9be-3a44e6497ed5.png)
