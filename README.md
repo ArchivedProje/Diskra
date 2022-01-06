@@ -268,3 +268,17 @@
 ###  Задача о кратчайшем пути в ориентированном взвешенном графе. Связь матрицы матрицы смежности (с весами) и матрицы стоимости пкратчайших путей.
 ![1](https://user-images.githubusercontent.com/72094319/148370353-bd3d0589-a7e2-4a21-9c23-46beaa0b0e4d.jpg)
 ![2](https://user-images.githubusercontent.com/72094319/148370367-bef65951-a59e-412a-9125-ad1de4820178.jpg)
+
+### Алфавит, слово, язык, множество языков над данным алфавитом, его мощность, операции над языками, полукольцо языков над данным алфавитом.
+![1](https://user-images.githubusercontent.com/72094319/148378264-d6978b33-9983-4e74-a418-d497368e4220.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148378268-117f5fe7-d309-45b1-b3f5-9d5748abc9eb.jpg)
+
+### Регулярные операции и регулярные языки. Мощность множества регулярных языков. Образуют ли регулярные языки замкнутое полукольцо относительно регулярных операций?
+![1](https://user-images.githubusercontent.com/72094319/148379889-d393d448-f88b-4585-930c-3fc1d0152b10.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148379983-2d7e22aa-04a0-4db8-ada3-680d8e4f60a5.png)
+
+### Регулярные языки и автоматы–распознаватели. Построение языка по автомату и автомата по языку. Теорема Клини.
+![1](https://user-images.githubusercontent.com/72094319/148380151-97f89a8f-9064-4eb7-b71a-4df193d23297.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148380314-1de89544-b8d9-4772-a5ec-9a53826c2732.png)
+![image](https://user-images.githubusercontent.com/72094319/148380377-1d4aa8c9-696d-402f-9065-40b9a3b85f74.png)
+
