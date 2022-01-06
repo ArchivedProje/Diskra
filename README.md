@@ -227,3 +227,44 @@
 ![image](https://user-images.githubusercontent.com/72094319/148349489-89bcb45f-0d7d-4410-a2dc-1144762aaa1a.png)
 ![image](https://user-images.githubusercontent.com/72094319/148349519-84232c6c-4e5f-4a19-950b-9bd1306c8523.png)
 ![image](https://user-images.githubusercontent.com/72094319/148349555-c76e4f4a-a732-407e-8f6b-ddd724ec1867.png)
+
+### Графы, простые графы, связность, компоненты связности
+![1](https://user-images.githubusercontent.com/72094319/148365784-47b1c393-fb55-4678-97af-56c562490a1f.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148365787-85c3b364-8e90-4085-9d5f-b64bd33f086d.jpg)
+
+### Графы, изоморфизмы графов, группа автоморфизмов графа. Подграфы, пути, циклы, остовы, связный граф, количество остовных деревьев в связном графе.
+![image](https://user-images.githubusercontent.com/72094319/148366194-69ca34db-4dc0-4ad5-bdf1-708459040903.png)
+![image](https://user-images.githubusercontent.com/72094319/148366427-c5f323c4-812a-45ec-b60b-405523854974.png)
+![image](https://user-images.githubusercontent.com/72094319/148366940-d1ba3454-7b39-478d-a468-b6a0ced6b4f4.png)
+![1](https://user-images.githubusercontent.com/72094319/148367453-4f1db605-cce6-4b55-aa94-51231c5de383.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148367459-4379028d-e7cc-4dde-a9e2-4bed804eaa77.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148367532-8d73d325-e79f-4c2b-ae70-c94925383e59.png)
+![image](https://user-images.githubusercontent.com/72094319/148367764-be480b02-be18-45eb-be65-ee01ddc7e8a4.png)
+
+### Графы и матрицы: матрица смежности, ее изменение при изменении нумерации вершин. Ранг графа. Проверка корректности определения ранга.
+![2](https://user-images.githubusercontent.com/72094319/148368606-fc847470-668e-49bf-90be-8a5e842533ce.jpg)
+![3](https://user-images.githubusercontent.com/72094319/148368619-b331b173-c67b-4752-8581-42e42fd717a3.jpg)
+![4](https://user-images.githubusercontent.com/72094319/148368620-8f30af66-1473-4cd9-a18e-9ef1647199ac.jpg)
+![5](https://user-images.githubusercontent.com/72094319/148368626-8ce48ec8-8dbb-44ba-8415-0fc9ad00c252.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148368671-d40e1e35-bab5-4bbc-b903-954b08df5b12.png)
+
+### Деревья. Связь количества вершин и ребер (неориентированного) дерева.
+**Дерево - связный граф без циклов**
+
+**|V| = |E| + 1**
+![1](https://user-images.githubusercontent.com/72094319/148369057-7a7e4bbc-5065-42ca-8c32-a1cefff0c41a.jpg)
+
+### Взвешенный граф. Задача о минимальном остовном дереве в связном взвешенном графе. Алгоритм Краскала
+**Взвешенный граф — граф, каждому ребру которого поставлено в соответствие некое значение (вес ребра).**
+![1](https://user-images.githubusercontent.com/72094319/148369498-ab6dd661-a6cc-478f-9355-ca5b0e00138b.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148369504-aa2aee35-23ba-473e-99c3-ddd8669e2b0b.jpg)
+![3](https://user-images.githubusercontent.com/72094319/148369768-18a0aadd-ae9e-46f5-8455-0fad8c91076f.jpg)
+![4](https://user-images.githubusercontent.com/72094319/148369779-000ca7a7-fdac-49bb-b16b-6e1af745ca36.jpg)
+
+### Задача о достижимости в ориентированном графе. Связь матрицы достижимости матрицы смежности.
+![1](https://user-images.githubusercontent.com/72094319/148370090-6f9c9c1b-487b-4d8f-ba69-7dd1173e8eac.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148370100-7c3e77ad-b911-4fd1-9f18-79a27b2ea03d.jpg)
+
+###  Задача о кратчайшем пути в ориентированном взвешенном графе. Связь матрицы матрицы смежности (с весами) и матрицы стоимости пкратчайших путей.
+![1](https://user-images.githubusercontent.com/72094319/148370353-bd3d0589-a7e2-4a21-9c23-46beaa0b0e4d.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148370367-bef65951-a59e-412a-9125-ad1de4820178.jpg)
