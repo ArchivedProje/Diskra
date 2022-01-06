@@ -282,3 +282,16 @@
 ![image](https://user-images.githubusercontent.com/72094319/148380314-1de89544-b8d9-4772-a5ec-9a53826c2732.png)
 ![image](https://user-images.githubusercontent.com/72094319/148380377-1d4aa8c9-696d-402f-9065-40b9a3b85f74.png)
 
+### Регулярные языки и автоматы–распознаватели. Поиск языка автомата–распознавателя с помощью итерации матрицы смежности.
+![1](https://user-images.githubusercontent.com/72094319/148388711-85f675fe-457c-43b4-9e87-5c59f1bf149c.jpg)
+**X = AX+B**
+
+### Лемма о разрастании для регулярных языков, пример нерегулярного языка.
+![image](https://user-images.githubusercontent.com/72094319/148388841-a76040b4-eeb1-495c-8562-2d7fc2d98f0b.png)
+![image](https://user-images.githubusercontent.com/72094319/148388902-983926a2-5049-4018-b2e0-4d2be225179c.png)
+![image](https://user-images.githubusercontent.com/72094319/148389041-e376dc5f-8e30-459e-9aec-e343929eec4c.png)
+
+### Конечные детерминированные автоматы, способы задания, покрытия и морфизмы.
+![1](https://user-images.githubusercontent.com/72094319/148389563-26046b26-a670-4949-9989-178712dbd5f0.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148389571-eea3e448-ac7c-42ff-82fd-48ceafa6d0ed.jpg)
+![3](https://user-images.githubusercontent.com/72094319/148389577-4b5e3e1e-1e59-4070-bab1-7e349f4a352d.jpg)
