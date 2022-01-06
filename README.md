@@ -218,3 +218,12 @@
 ![image](https://user-images.githubusercontent.com/72094319/148349143-fd67aefc-439b-4952-8aae-3de9aebf3f21.png)
 ![image](https://user-images.githubusercontent.com/72094319/148349168-89f796d5-df8c-4899-92b6-301e2357b4aa.png)
 ![image](https://user-images.githubusercontent.com/72094319/148349207-230f4159-a600-44e0-865f-55c65a9802b1.png)
+
+### Теорема Поста о полноте
+![image](https://user-images.githubusercontent.com/72094319/148349357-9d8f94a3-314e-4619-9c97-b67a56a255c1.png)
+![image](https://user-images.githubusercontent.com/72094319/148349385-4895991e-f1d3-4ab8-a93f-b345e9ed9c72.png)
+![image](https://user-images.githubusercontent.com/72094319/148349423-d0a5ac91-795d-44b6-b345-8acced1a8040.png)
+![image](https://user-images.githubusercontent.com/72094319/148349456-27d0aa4d-3db5-4785-bdd7-ca1d2950ea33.png)
+![image](https://user-images.githubusercontent.com/72094319/148349489-89bcb45f-0d7d-4410-a2dc-1144762aaa1a.png)
+![image](https://user-images.githubusercontent.com/72094319/148349519-84232c6c-4e5f-4a19-950b-9bd1306c8523.png)
+![image](https://user-images.githubusercontent.com/72094319/148349555-c76e4f4a-a732-407e-8f6b-ddd724ec1867.png)
