@@ -179,3 +179,25 @@
 ![image](https://user-images.githubusercontent.com/72094319/148059824-c3f6a04a-eeb3-434d-b3c0-706be9799e14.png)
 #### Метод неопределенных коэффициентов
 ![image](https://user-images.githubusercontent.com/72094319/148059927-e59f2f2a-d6e1-44bc-b9be-3a44e6497ed5.png)
+
+### Задача о минимизации ДНФ, сокращенные ДНФ, алгоритм Блейка, карты Карно
+![0](https://user-images.githubusercontent.com/72094319/148347513-f304cf63-94fb-4fac-8cdf-8fcdccaa64ce.jpg)
+![1](https://user-images.githubusercontent.com/72094319/148347520-06a1c0c4-7a1e-43fb-b635-f6f36e082326.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148347522-ef546dfe-76fd-4a50-a4d1-69e526a4ac3d.jpg)
+![4](https://user-images.githubusercontent.com/72094319/148347527-febc28e0-b945-43f5-8eae-0c5848ec0ccb.jpg)
+![5](https://user-images.githubusercontent.com/72094319/148347534-07a62653-c32f-43ad-857b-aa1b2d7e9f02.jpg)
+
+### Задача о минимизации ДНФ, тупиковые ДНФ, их связь с минимальными ДНФ, методы поиска тупиковых ДНФ.
+![3](https://user-images.githubusercontent.com/72094319/148347523-4e650ce4-4975-4d9b-b89f-e6babce66c15.jpg)
+
+### Замкнутые классы: классы функций сохраняющих константу, класс самодвойственных функций, проверка их замкнутости, лемма о несамодвойственной функции.
+![image](https://user-images.githubusercontent.com/72094319/148348130-6fc49ec1-0bb7-4642-9183-3eb769fb5a20.png)
+![image](https://user-images.githubusercontent.com/72094319/148348159-12e8a06f-64ea-435b-be51-56bc1e5ac4c4.png)
+![image](https://user-images.githubusercontent.com/72094319/148348216-501c9015-8719-4dbf-8c8d-de663aa59db0.png)
+![image](https://user-images.githubusercontent.com/72094319/148348273-34824e11-6c04-41ac-9336-ed53c90a2db1.png)
+![image](https://user-images.githubusercontent.com/72094319/148348326-499af4f3-cc31-4472-8df7-5f83c746373d.png)
+![image](https://user-images.githubusercontent.com/72094319/148348355-896be224-8926-4ece-b8a0-08f2293f1189.png)
+![image](https://user-images.githubusercontent.com/72094319/148348411-6bdd544f-60be-44e7-b49a-38f34e13d39e.png)
+![image](https://user-images.githubusercontent.com/72094319/148348442-1dd8f605-8c81-4e61-a948-47e4a20ad68e.png)
+![image](https://user-images.githubusercontent.com/72094319/148348473-678bf516-f8d5-4a8f-92fe-12d0f3a3ecd3.png)
+![image](https://user-images.githubusercontent.com/72094319/148348493-7e33fdda-a26c-48a6-a4c7-2fb5b2cf724b.png)
