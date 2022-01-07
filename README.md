@@ -295,3 +295,24 @@
 ![1](https://user-images.githubusercontent.com/72094319/148389563-26046b26-a670-4949-9989-178712dbd5f0.jpg)
 ![2](https://user-images.githubusercontent.com/72094319/148389571-eea3e448-ac7c-42ff-82fd-48ceafa6d0ed.jpg)
 ![3](https://user-images.githubusercontent.com/72094319/148389577-4b5e3e1e-1e59-4070-bab1-7e349f4a352d.jpg)
+![image](https://user-images.githubusercontent.com/72094319/148576554-bbe2d951-0ff3-4418-935d-7d16fef52466.png)
+
+### Конечные детерминированные автоматы, постановка задачи о минимизации, эквивалентные состояния, теорема о минимальном автомате.
+![image](https://user-images.githubusercontent.com/72094319/148576659-c9a153b1-c1f3-42fa-901d-e2694fc95edf.png)
+![image](https://user-images.githubusercontent.com/72094319/148576670-82d59abd-1a40-4ce0-925a-332d813ba4d9.png)
+![image](https://user-images.githubusercontent.com/72094319/148576677-3357a3e1-522c-4df1-906b-aa7b44121660.png)
+
+### Языки, порожденные грамматиками. Иерархия Хомского
+![1](https://user-images.githubusercontent.com/72094319/148576436-1d302ceb-8161-487d-a70b-12e174116b67.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148576446-cbecd6e6-f264-4cdd-ba89-d9ef418e6710.jpg)
+
+### Грамматики и автоматы–распознаватели. Место регулярных языков в Иерархии Хомского.
+Мно-во языков над А типа 4(т.е. линейные грамматики) равно мн-ву языков над Xт
+![image](https://user-images.githubusercontent.com/72094319/148576724-a0212fd5-b59e-4ea2-bce8-4b449125b54d.png)
+
+###  Задача распознавания в НК-грамматиках. Оценка высоты дерева вывода.
+![1](https://user-images.githubusercontent.com/72094319/148577118-1c5ef4ee-a6e9-40b1-9c1a-fecb28cbc510.jpg)
+![2](https://user-images.githubusercontent.com/72094319/148577122-0301c154-7e5a-432c-a986-705badd79159.jpg)
+
+### Существование нерегулярных контекстно-свободных языков
+![image](https://user-images.githubusercontent.com/72094319/148577421-9594c6ac-c80d-4705-b0c3-dffd8754f0b7.png)
